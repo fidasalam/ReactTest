@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "y",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fidasalam/ReactTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fidasalam/ReactTest/issues"
+  },
+  "homepage": "https://github.com/fidasalam/ReactTest#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
